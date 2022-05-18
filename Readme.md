@@ -24,7 +24,7 @@
 ```✤🅵🅾🆁 🅼🅾🆁🅴 🅷🅴🅻🅿 🅹🅾🅸🅽 🆃🅶/🆆🅰 🅶🆁🅾🆄🅿🆂✤```
 ## Deploy
 
-<a href="https://heroku.com/deploy?template=https://github.com/BlinderOX/Auto-Filter-Bot-Blinder/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/BlinderOX/Auto-F-B/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 <i>
