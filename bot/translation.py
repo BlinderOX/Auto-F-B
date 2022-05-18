@@ -8,7 +8,6 @@ class Translation(object):
 <i>Am Just A Advance Auto Filter Bot....😉
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🌚🎀
 For More Details Click Help Button Below..
-@LXRYOUTUBERYT
 </i>"""        
     
     HELP_TEXT = """
@@ -46,13 +45,13 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/LXRBOTSGROUP">👤 LXR YOUTUBER</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="@Grand_boy_0">👤 𝗕𝗹𝗶𝗻𝗱𝗲𝗿 𝗢𝗫</a></b>
 
-<b>➥ 🎬turtoil video</b> : <b><a href="https://youtu.be/pgupV-C6B74">👤LXR AMAL BOTS</a></b>
+<b>➥ 🎬turtoil video</b> : <b><a href="https://t.me/BlinderOX">👤LXR AMAL BOTS</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/LXR-YOUTUBER-AMAL/auto-filter-bot-premier">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://t.me/BlinderOX">💥Click Me</a></b>
 """
